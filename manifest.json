@@ -1,0 +1,23 @@
+{
+  "name": "רופאי אסיא",
+  "short_name": "רופאי אסיא",
+  "description": "דף קשר רופאי קבוצת אסיא",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f0ec",
+  "theme_color": "#bec9c1",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
